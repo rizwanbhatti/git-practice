@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#main{
+    border: 1px solid black;
+}
+#left{
+    width: 30%;
+    max-height: 470px;
+    border: 1px solid red;
+    display: inline-block;
+    overflow: auto;
+
+
+}
+
+
+#right{
+    width: 68%;
+    height: 470px;
+    border: 1px solid green;
+    display: inline-block;
+}
